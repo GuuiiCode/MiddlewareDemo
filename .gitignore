@@ -1,1 +1,6 @@
-.vs/ echo *.user echo bin/ echo obj/ echo .vscode/ echo .idea/
+.vs/ 
+*.user 
+bin/ 
+obj/ 
+.vscode/ 
+.idea/ 
